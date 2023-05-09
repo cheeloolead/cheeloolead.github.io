@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 关于开放共享国家健康医疗大数据研究院研究型数据库的公告
 
-You can use the [editor on GitHub](https://github.com/OCOMEDIS/ocomedis.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+国家健康医疗大数据研究院（以下简称“国研院”）是经国家卫生健康委批复，由山东省卫生健康委、济南市人民政府和山东大学联合，依托山东大学建立的健康医疗大数据共建共享平台，是国家健康医疗大数据中心（北方）的重要组成部分。国研院在山东省卫生健康委、山东健康医疗大数据管理中心等有关部门的支持下，利用国家健康医疗大数据中心（北方）的健康医疗大数据资源，建立了多个研究型数据库。目前，部分数据库已经具备了开放共享条件。为了促进科学研究以及学科建设，推进健康大数据产学研转化，国研院将按照《山东省健康医疗大数据管理办法》和《国家健康医疗大数据中心（北方）科技创新协作体系管理规程（试行）》等有关规定，根据各数据库建设成熟度，面向校内外陆续开放健康医疗大数据研究型数据库。
+    其中，齐鲁全生命周期电子健康研究型数据库（Cheeloo Lifespan Electronic Health Research Data-library，Cheeloo LEAD)，是从山东省136个县（区）1.01亿人口中，采用整群随机抽样方法抽取39个县（区）的500万人（5,152,597），链接融合2009年1月1日至今的全生命周期居民健康档案、基本公共卫生、电子病历、健康体检、疾病监测、医疗保险记录、死因监测、环境生态等149个数据表而构建的大型研究型数据库。Cheeloo LEAD是以国研院的数据采集融汇通用数据模型（RCDM）和科学数据通用数据模型（SCDM）为标准建立的纵向队列，样本量达5,152,597人，总记录数1,227,393条，总变量数76,712个；依托联邦健康大数据联盟网络，通过智能化、电子化随访更新数据，随访时间长达13年以上。
+  
+  目前，经过长达6年的数据治理优化，Cheeloo LEAD已经达到了开放共享的成熟度。它是支撑人群流行病学研究、卫生技术评估研究、真实世界临床研究、卫生经济与卫生政策研究的大型多中心纵向队列数据库。
+  
+  欢迎校内外研究团队、医药企业和医学人工智能企业等前来申请和洽谈合作研究，共同打造“齐鲁领先（Cheeloo LEAD）”健康大数据品牌。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  网址：http://www.mhdata.sdu.edu.cn/
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OCOMEDIS/ocomedis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+                               国家健康医疗大数据研究院
+                                     2023年4月23日
